@@ -1,0 +1,6 @@
+venv/
+.env
+tempCodeRunnerFile*
+finance.db
+**/__pycache__/
+*.pyc
